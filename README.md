@@ -92,7 +92,7 @@ Open Gitbash in the directory in which you want the project to be placed.
 Write the following commands in the bash terminal : 
 
 ```
-git clone git@github.com:manas-kgp112/GTZAN-Music-Genre-Classification.git .
+git clone git@github.com:MandeepKumar-7/Music-Genre-Classification.git .
 conda create -p venv python=3.9.16 -y
 conda activate venv/
 touch artifacts/data/temp.txt
